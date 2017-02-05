@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+require 'pics_url'
+
+puts 'Enter URL'
+puts PicsUrl::Images.new(gets.chomp).links
