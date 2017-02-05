@@ -24,7 +24,7 @@ Or install it yourself as:
 
 start it with
 ```
-ruby lib/pics_url.rb
+bin/run
 ```
 and enter url
 
